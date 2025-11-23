@@ -4,6 +4,8 @@
 #include "Card.h"
 #include <string>
 
+// PokemonCard.h - Declares a Pokemon card with HP, energy cost, attacks and related info.
+
 class PokemonCard : public Card {
 private:
     std::string pokemonType;

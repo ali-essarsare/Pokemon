@@ -6,6 +6,8 @@
 #include <string>
 #include <vector>
 
+// TrainerCard.h - Declares a trainer card that can affect Pokemon (e.g., heal effects).
+
 class TrainerCard : public Card {
 private:
     std::string trainerEffect;

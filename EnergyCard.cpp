@@ -3,6 +3,8 @@
 #include <string>
 using namespace std;
 
+// EnergyCard.cpp - Simple implementation for energy-card behavior and display.
+
 EnergyCard::EnergyCard(const std::string& energyType) : Card("Energy"), energyType(energyType) {}
 
 void EnergyCard::displayInfo() {

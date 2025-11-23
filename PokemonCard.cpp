@@ -2,6 +2,8 @@
 #include <iostream>
 using namespace std;
 
+// PokemonCard.cpp - Implements Pokemon card behavior: damage, heal, energy management and display.
+
 PokemonCard::PokemonCard(
     const string& pokemonName,
     const string& pokemonType,

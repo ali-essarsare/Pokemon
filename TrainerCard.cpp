@@ -2,6 +2,8 @@
 #include <iostream>
 using namespace std;
 
+// TrainerCard.cpp - Implements trainer card actions such as healing player Pokemon.
+
 TrainerCard::TrainerCard(const string& cardName, const string& trainerEffect)
     : Card(cardName), trainerEffect(trainerEffect) {}
 

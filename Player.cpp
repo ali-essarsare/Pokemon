@@ -4,6 +4,8 @@
 #include <iostream>
 using namespace std;
 
+// Player.cpp - Implements player actions: add/activate cards, attach energy, attack, use trainer.
+
 Player::Player(const string& playerName) : playerName(playerName) {
 }
 

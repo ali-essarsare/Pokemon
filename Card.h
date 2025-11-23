@@ -3,6 +3,8 @@
 
 #include <string>
 
+// Card.h - Declares the base `Card` type used by all card classes in the project.
+
 class Card {
 protected:
     std::string cardName;

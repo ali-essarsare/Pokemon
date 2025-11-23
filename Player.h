@@ -4,6 +4,8 @@
 #include <string>
 #include <vector>
 #include "Card.h"
+#include <string>
+// Player.h - Declares a Player who manages bench and active Pokemon cards.
 #include "PokemonCard.h"
 
 class Player {

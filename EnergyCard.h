@@ -4,6 +4,8 @@
 #include "Card.h"
 #include <string>
 
+// EnergyCard.h - Declares an energy card type that provides energy to Pokemon.
+
 class EnergyCard : public Card {
 private:
     std::string energyType;

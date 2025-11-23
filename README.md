@@ -2,6 +2,8 @@
 
 This small C++ project demonstrates simple card interactions (Pokemon, Energy, Trainer).
 
+<!-- README.md - Project instructions and build/run examples -->
+
 Build (PowerShell):
 
 ```powershell
